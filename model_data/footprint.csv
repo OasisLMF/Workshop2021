@@ -1,4 +1,4 @@
-event_id,areaperil_id,intensity_bin_index,probability
+event_id,area_peril_id,intensity_bin_index,probability
 20,12181,1,1
 22,30542,4,1
 27,5566,1,1

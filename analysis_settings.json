@@ -1,0 +1,1 @@
+{"module_supplier_id": "OasisLMF", "model_version_id": "OasisHurdat", "number_of_samples": 10, "gul_threshold": 0, "gul_output": true, "model_settings": {}, "gul_summaries": [{"aalcalc": true, "eltcalc": true, "id": 1, "lec_output": true, "leccalc": {"full_uncertainty_aep": true, "full_uncertainty_oep": true, "return_period_file": true}}]}
