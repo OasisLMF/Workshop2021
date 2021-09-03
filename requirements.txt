@@ -2,5 +2,5 @@ pandas
 matplotlib
 geopandas
 shapely
-oasislmf[extra]
+oasislmf[extra]==1.19.0
 pyarrow
